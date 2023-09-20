@@ -1,7 +1,7 @@
 package a201914059;
 
-public class Three {
+public class Five {
 	public static void print() {
-		System.out.println("three");
+	System.out.println("five");
 	}
 }
